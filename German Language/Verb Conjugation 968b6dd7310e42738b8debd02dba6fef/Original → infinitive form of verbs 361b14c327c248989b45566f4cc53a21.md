@@ -1,0 +1,1 @@
+# Original → infinitive form of verbs

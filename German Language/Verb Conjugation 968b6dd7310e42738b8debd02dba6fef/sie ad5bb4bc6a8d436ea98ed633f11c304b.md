@@ -1,0 +1,3 @@
+# sie
+
+Verb Conjugation: Kommen

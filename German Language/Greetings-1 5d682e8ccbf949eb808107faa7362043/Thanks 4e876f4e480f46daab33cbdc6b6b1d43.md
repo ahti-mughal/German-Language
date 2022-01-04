@@ -1,0 +1,3 @@
+# Thanks
+
+German: Danke

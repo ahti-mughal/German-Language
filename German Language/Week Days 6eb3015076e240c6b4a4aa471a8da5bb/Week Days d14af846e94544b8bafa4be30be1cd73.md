@@ -1,0 +1,3 @@
+# Week Days
+
+German: Wochentage

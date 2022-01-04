@@ -1,0 +1,3 @@
+# Thursday
+
+German: Der Donnerstag

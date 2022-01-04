@@ -1,0 +1,3 @@
+# Tuesday
+
+German: Der Dienstag

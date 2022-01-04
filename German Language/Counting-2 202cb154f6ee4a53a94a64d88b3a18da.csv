@@ -1,0 +1,28 @@
+﻿Till 30,German,30-60,Germann
+11,elf,30,dreiBig
+12,swolf,31,einunddreiBig
+13,dreizehn,32,zweiunddreiBig
+14,vierzehn,33,dreiunddreiBig
+15,funfzehn,34,vierunddreiBig
+16,sechzehn,35,funfunddreiBig
+17,siebzehn,36,sechsunddreiBig
+18,achtzehn,37,siebenunddreiBig
+19,neunzehn,38,achtunddreiBig
+20,zwanzig,39,neununddreiBig
+21,einundzwanzig,40,vierzig
+22,zweiundzwanzig,,
+23,dreiundzwanzig,50,funfzig
+24,vierundzwanzig,60,sechzig
+25,funfundzwanzig,61,einundsechzig
+26,sechsundzwanzig,66,sechsundsechzig
+27,siebenundzwanzig,70,siebzig
+28,achtundzwanzig,76,sechsundsiebzig
+29,neunundzwanzig,77,siebenundsiebzig
+30,dreiBig,,
+,,,
+100,hundert/einhundert,,
+200,zweihundert,,
+After 100 read from left to right,,,
+102,einhundertzwei,,
+122 → 100+22,einhundertzweiundzwanzig,,
+600,zehnhundert,,

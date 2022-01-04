@@ -14,7 +14,7 @@ indefinite article
 
  
 
-|  | male | female | neutral | plural |
+|  | masculine | feminine | neutral | plural |
 | --- | --- | --- | --- | --- |
 | bestimmtartikel | der | die | das | die |
 | unbestimmtartikel | ein | eine | ein |  |

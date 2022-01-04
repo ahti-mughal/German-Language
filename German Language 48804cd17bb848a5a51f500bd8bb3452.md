@@ -42,4 +42,20 @@
 
 [Family](German%20Language%2048804cd17bb848a5a51f500bd8bb3452/Family%20927ef05aa06e407aa0f15d111e4471f0.csv)
 
+[Possessive Pronomen](German%20Language%2048804cd17bb848a5a51f500bd8bb3452/Possessive%20Pronomen%204fe767294dde4ab8811de38a13afa63a.csv)
+
+[Infinitives](German%20Language%2048804cd17bb848a5a51f500bd8bb3452/Infinitives%209c5270be293a4e589bc42a4fd7e41f4e.csv)
+
+[Infinitives-2](German%20Language%2048804cd17bb848a5a51f500bd8bb3452/Infinitives-2%20609f63f5607e4329a66d3af4eb2e3cd3.md)
+
+[Words](German%20Language%2048804cd17bb848a5a51f500bd8bb3452/Words%204031d5434fac473aafa5746622a842db.csv)
+
+[Adjectives → Adjektiv](German%20Language%2048804cd17bb848a5a51f500bd8bb3452/Adjectives%20%E2%86%92%20Adjektiv%20eac40f3201054ec6959060bdaa9f67ea.csv)
+
+[Time](German%20Language%2048804cd17bb848a5a51f500bd8bb3452/Time%2067f6ad2ee1b4471ca53f7fcf2e79dc2f.md)
+
+[Modal Verben](German%20Language%2048804cd17bb848a5a51f500bd8bb3452/Modal%20Verben%20c93e91ca99b447d99cd6bdb5bde8372c.md)
+
+[Sentence Rule](German%20Language%2048804cd17bb848a5a51f500bd8bb3452/Sentence%20Rule%200baae02b085b4bb18908ebcc58a893b1.md)
+
 ßä***öü***

@@ -2,7 +2,7 @@
 
 definite article
 
-der, die, das → this
+der, die, das → the
 
 # Unbestimmtartikel
 
